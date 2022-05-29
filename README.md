@@ -1,4 +1,4 @@
- To-do
+ #To-do
 
  Upgrade next-auth to v4
  Fix thumbnails in the card
